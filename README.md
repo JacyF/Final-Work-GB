@@ -9,6 +9,17 @@ Exercise
 
 _Task Execution Algorithm_ 
 
++ Step 1
+
+    Draw a block diagram of the algorithm 
+
++ step 2
+
+    Set a string array
+
++ step 3
+
+    Write a sort method 
 
 
 
