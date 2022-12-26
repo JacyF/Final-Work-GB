@@ -13,14 +13,21 @@ _Task Execution Algorithm_
 
     Draw a block diagram of the algorithm 
 
-+ step 2
++ Step 2
 
     Set a string array
 
-+ step 3
++ Step 3
 
-    Write a sort method 
+    Write a sort method just with 3 simbols
 
++ Step 4
+
+    Show random array
+
++ Step 5
+
+    Show the final array
 
 
 
